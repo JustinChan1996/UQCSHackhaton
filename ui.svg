@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="146.16455"
-     inkscape:cy="587.06597"
+     inkscape:zoom="0.5"
+     inkscape:cx="-88.432076"
+     inkscape:cy="687.09066"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -77,14 +77,14 @@
          style="stroke-width:0.26458332px;fill:#ffffff;">Laps</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="92.604164"
-       y="146.98125"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="58.208332"
+       y="163.38542"
        id="text3719"><tspan
          sodipodi:role="line"
          id="tspan3717"
-         x="92.604164"
-         y="146.98125"
-         style="font-size:25.39999962px;fill:#ffffff;stroke-width:0.26458332px">1</tspan></text>
+         x="58.208332"
+         y="163.38542"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.55555725px;font-family:monospace;-inkscape-font-specification:monospace;fill:#ffffff;stroke-width:0.26458332px">01</tspan></text>
   </g>
 </svg>
