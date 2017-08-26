@@ -17,7 +17,52 @@
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="ui.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath224">
+      <circle
+         clip-path="none"
+         style="fill:#000000;stroke-width:0.26458332"
+         r="67.279762"
+         cy="211.27501"
+         cx="138.11247"
+         id="circle226" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath228">
+      <circle
+         clip-path="none"
+         style="fill:#000000;stroke-width:0.26458332"
+         r="67.279762"
+         cy="211.27501"
+         cx="138.11247"
+         id="circle230" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath224-6">
+      <circle
+         clip-path="none"
+         style="fill:#000000;stroke-width:0.26458332"
+         r="67.279762"
+         cy="211.27501"
+         cx="138.11247"
+         id="circle226-0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath228-4">
+      <circle
+         clip-path="none"
+         style="fill:#000000;stroke-width:0.26458332"
+         r="67.279762"
+         cy="211.27501"
+         cx="138.11247"
+         id="circle230-8" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,8 +71,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="928.35472"
-     inkscape:cy="449.9873"
+     inkscape:cx="727.92997"
+     inkscape:cy="907.61097"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +89,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,17 +99,58 @@
      id="layer1"
      transform="translate(0,123)">
     <circle
-       id="path3682"
-       cx="138.33929"
-       cy="211.57738"
+       id="path3682-7-8-8"
+       cx="279.39999"
+       cy="76.602081"
        r="67.279762"
        style="fill:#000000;stroke-width:0.26458332" />
+    <rect
+       transform="translate(141.28751,-134.14375)"
+       style="fill:#ff0000;stroke-width:0.26458332"
+       id="rect161-8"
+       width="94.191666"
+       height="51.329159"
+       x="128.05833"
+       y="241.17293"
+       clip-path="url(#clipPath228-4)" />
+    <rect
+       transform="translate(141.28751,-134.14375)"
+       style="fill:#00ff00;stroke-width:0.26458332"
+       id="rect108-9"
+       width="77.258331"
+       height="45.508331"
+       x="50.799999"
+       y="241.17293"
+       clip-path="url(#clipPath224-6)" />
+    <circle
+       id="path3682-7-8"
+       cx="138.1125"
+       cy="210.74583"
+       r="67.279762"
+       style="fill:#000000;stroke-width:0.26458332" />
+    <rect
+       style="fill:#ff0000;stroke-width:0.26458332"
+       id="rect161"
+       width="94.191666"
+       height="51.329159"
+       x="128.05833"
+       y="241.17293"
+       clip-path="url(#clipPath228)" />
+    <rect
+       style="fill:#00ff00;stroke-width:0.26458332"
+       id="rect108"
+       width="77.258331"
+       height="45.508331"
+       x="50.799999"
+       y="241.17293"
+       clip-path="url(#clipPath224)" />
     <circle
        style="fill:#000000;stroke-width:0.26458332"
        id="path3692"
        cx="137.80228"
        cy="213.12703"
-       r="6.1471992" />
+       r="6.1471992"
+       clip-path="none" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -81,7 +167,8 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="95.25"
        y="237.46875"
-       id="text3719"><tspan
+       id="text3719"
+       clip-path="none"><tspan
          sodipodi:role="line"
          id="tspan3717"
          x="95.25"
@@ -115,7 +202,8 @@
        xml:space="preserve"
        id="flowRoot3768"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,58.208334,-22.225)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,58.208334,-22.225)"
+       clip-path="none"><flowRegion
          id="flowRegion3770"
          style="fill:#ffffff"><rect
            id="rect3772"
@@ -152,12 +240,6 @@
          y="91.35627"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.27777863px;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332px"
          id="tspan114">Start</tspan></text>
-    <circle
-       id="path3682-7"
-       cx="278.87082"
-       cy="76.337502"
-       r="67.279762"
-       style="fill:#000000;stroke-width:0.26458332" />
     <circle
        style="fill:#000000;stroke-width:0.26458332"
        id="path3692-6"
@@ -217,12 +299,14 @@
        id="path220"
        cx="109.82104"
        cy="257.52429"
-       r="9.541522" />
+       r="9.541522"
+       clip-path="none" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3740"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,37.041667,74.083333)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,37.041667,74.083333)"
+       clip-path="none"><flowRegion
          id="flowRegion3742"
          style="fill:#ffffff"><rect
            id="rect3744"
@@ -232,19 +316,13 @@
            y="666.51971"
            style="fill:#ffffff" /></flowRegion><flowPara
          id="flowPara3746"
-         style="font-size:96.00000121px">-</flowPara></flowRoot>    <ellipse
-       style="fill:#ff0000;stroke-width:0.22960687"
-       id="path253"
-       cx="154.04373"
-       cy="257.83972"
-       rx="22.824818"
-       ry="10.102788" />
-    <text
+         style="font-size:96.00000121px">-</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="140.22923"
        y="261.54581"
-       id="text3750"><tspan
+       id="text3750"
+       clip-path="none"><tspan
          sodipodi:role="line"
          id="tspan3748"
          x="140.22923"
@@ -288,5 +366,11 @@
          x="279.46768"
          y="124.49358"
          style="fill:#ffffff;stroke-width:0.26458332px">Reset</tspan></text>
+    <ellipse
+       id="path3682-8"
+       cx="202.67084"
+       cy="208.09999"
+       style="fill:#000000;stroke-width:0.26458332"
+       r="67.279762" />
   </g>
 </svg>
