@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="594mm"
+   height="420mm"
+   viewBox="0 0 594 420"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="40.867957"
-     inkscape:cy="485.90751"
+     inkscape:zoom="0.5"
+     inkscape:cx="928.35472"
+     inkscape:cy="449.9873"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -51,13 +51,14 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,123)">
     <circle
        id="path3682"
        cx="138.33929"
        cy="211.57738"
        r="67.279762"
-       style="fill:#0000ff;stroke-width:0.26458332" />
+       style="fill:#000000;stroke-width:0.26458332" />
     <circle
        style="fill:#000000;stroke-width:0.26458332"
        id="path3692"
@@ -86,30 +87,6 @@
          x="95.25"
          y="237.46875"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.55555725px;font-family:monospace;-inkscape-font-specification:monospace;fill:#ffffff;stroke-width:0.26458332px">00</tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3740"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,37.041667,74.083333)"><flowRegion
-         id="flowRegion3742"
-         style="fill:#ffffff"><rect
-           id="rect3744"
-           width="86"
-           height="94"
-           x="258"
-           y="666.51971"
-           style="fill:#ffffff" /></flowRegion><flowPara
-         id="flowPara3746">+</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="144.46251"
-       y="263.66251"
-       id="text3750"><tspan
-         sodipodi:role="line"
-         id="tspan3748"
-         x="144.46251"
-         y="263.66251"
-         style="fill:#ffffff;stroke-width:0.26458332px">Reset</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3752"
@@ -161,14 +138,155 @@
        r="6.1471992" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="25.627159"
-       y="83.686012"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="72.774178"
+       y="71.712334"
        id="text3719-2"><tspan
          sodipodi:role="line"
          id="tspan3717-2"
-         x="25.627159"
-         y="83.686012"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.27777863px;font-family:monospace;-inkscape-font-specification:monospace;fill:#ffffff;stroke-width:0.26458332px">Start</tspan></text>
+         x="72.774178"
+         y="71.712334"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.27777863px;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332px">tap to</tspan><tspan
+         sodipodi:role="line"
+         x="72.774178"
+         y="91.35627"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.27777863px;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332px"
+         id="tspan114">Start</tspan></text>
+    <circle
+       id="path3682-7"
+       cx="278.87082"
+       cy="76.337502"
+       r="67.279762"
+       style="fill:#000000;stroke-width:0.26458332" />
+    <circle
+       style="fill:#000000;stroke-width:0.26458332"
+       id="path3692-6"
+       cx="278.3338"
+       cy="77.887154"
+       r="6.1471992" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="248.63467"
+       y="27.416208"
+       id="text3696-4"><tspan
+         sodipodi:role="line"
+         id="tspan3694-3"
+         x="248.63467"
+         y="27.416208"
+         style="fill:#ffffff;stroke-width:0.26458332px">Pool Sharks</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="235.78154"
+       y="102.22887"
+       id="text3719-0"><tspan
+         sodipodi:role="line"
+         id="tspan3717-3"
+         x="235.78154"
+         y="102.22887"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.55555725px;font-family:monospace;-inkscape-font-specification:monospace;fill:#ffffff;stroke-width:0.26458332px">00</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3760-5"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,167.51904,-57.981543)"><flowRegion
+         id="flowRegion3762-9"
+         style="fill:#ffffff"><rect
+           id="rect3764-4"
+           width="254"
+           height="76"
+           x="394"
+           y="302.51968"
+           style="fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara3766-6" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3768-9"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,198.73987,-157.46488)"><flowRegion
+         id="flowRegion3770-2"
+         style="fill:#ffffff"><rect
+           id="rect3772-2"
+           width="266"
+           height="154.00002"
+           x="202"
+           y="726.51971"
+           style="fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara3774-4">Tap to add</flowPara></flowRoot>    <circle
+       style="fill:#00ff00;stroke-width:0.26458332"
+       id="path220"
+       cx="109.82104"
+       cy="257.52429"
+       r="9.541522" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3740"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,37.041667,74.083333)"><flowRegion
+         id="flowRegion3742"
+         style="fill:#ffffff"><rect
+           id="rect3744"
+           width="86"
+           height="94"
+           x="258"
+           y="666.51971"
+           style="fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara3746"
+         style="font-size:96.00000121px">-</flowPara></flowRoot>    <ellipse
+       style="fill:#ff0000;stroke-width:0.22960687"
+       id="path253"
+       cx="154.04373"
+       cy="257.83972"
+       rx="22.824818"
+       ry="10.102788" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="140.22923"
+       y="261.54581"
+       id="text3750"><tspan
+         sodipodi:role="line"
+         id="tspan3748"
+         x="140.22923"
+         y="261.54581"
+         style="fill:#ffffff;stroke-width:0.26458332px">Reset</tspan></text>
+    <circle
+       style="fill:#00ff00;stroke-width:0.26458332"
+       id="path220-2"
+       cx="249.05951"
+       cy="120.47207"
+       r="9.541522" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3740-5"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,176.28013,-62.968891)"><flowRegion
+         id="flowRegion3742-8"
+         style="fill:#ffffff"><rect
+           id="rect3744-6"
+           width="86"
+           height="94"
+           x="258"
+           y="666.51971"
+           style="fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara3746-2"
+         style="font-size:96px">-</flowPara></flowRoot>    <ellipse
+       style="fill:#ff0000;stroke-width:0.22960687"
+       id="path253-8"
+       cx="293.2822"
+       cy="120.7875"
+       rx="22.824818"
+       ry="10.102788" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="279.46768"
+       y="124.49358"
+       id="text3750-4"><tspan
+         sodipodi:role="line"
+         id="tspan3748-7"
+         x="279.46768"
+         y="124.49358"
+         style="fill:#ffffff;stroke-width:0.26458332px">Reset</tspan></text>
   </g>
 </svg>
