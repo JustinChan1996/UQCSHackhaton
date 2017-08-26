@@ -18,6 +18,11 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
+        </activity>
+        <activity
+            android:label="Lap_Counter"
+            android:name=".Lap_Counter" >
         </activity>
     </application>
 

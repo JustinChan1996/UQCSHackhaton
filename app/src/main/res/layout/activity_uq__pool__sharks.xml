@@ -5,6 +5,7 @@
     android:id="@+id/watch_view_stub"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:clickable="true"
     app:rectLayout="@layout/rect_activity_uq__pool__sharks"
     app:roundLayout="@layout/round_activity_uq__pool__sharks"
     tools:context="com.example.lenovo.uqcs_pool_sharks.UQ_Pool_Sharks"
