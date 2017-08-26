@@ -71,7 +71,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="727.92997"
+     inkscape:cx="713.92997"
      inkscape:cy="907.61097"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -104,46 +104,12 @@
        cy="76.602081"
        r="67.279762"
        style="fill:#000000;stroke-width:0.26458332" />
-    <rect
-       transform="translate(141.28751,-134.14375)"
-       style="fill:#ff0000;stroke-width:0.26458332"
-       id="rect161-8"
-       width="94.191666"
-       height="51.329159"
-       x="128.05833"
-       y="241.17293"
-       clip-path="url(#clipPath228-4)" />
-    <rect
-       transform="translate(141.28751,-134.14375)"
-       style="fill:#00ff00;stroke-width:0.26458332"
-       id="rect108-9"
-       width="77.258331"
-       height="45.508331"
-       x="50.799999"
-       y="241.17293"
-       clip-path="url(#clipPath224-6)" />
     <circle
        id="path3682-7-8"
        cx="138.1125"
        cy="210.74583"
        r="67.279762"
        style="fill:#000000;stroke-width:0.26458332" />
-    <rect
-       style="fill:#ff0000;stroke-width:0.26458332"
-       id="rect161"
-       width="94.191666"
-       height="51.329159"
-       x="128.05833"
-       y="241.17293"
-       clip-path="url(#clipPath228)" />
-    <rect
-       style="fill:#00ff00;stroke-width:0.26458332"
-       id="rect108"
-       width="77.258331"
-       height="45.508331"
-       x="50.799999"
-       y="241.17293"
-       clip-path="url(#clipPath224)" />
     <circle
        style="fill:#000000;stroke-width:0.26458332"
        id="path3692"
@@ -217,7 +183,7 @@
        cx="76.200005"
        cy="70.51667"
        r="67.279762"
-       style="fill:#0000ff;stroke-width:0.26458332" />
+       style="fill:#000000;stroke-width:0.26458332" />
     <circle
        style="fill:#000000;stroke-width:0.26458332"
        id="path3692-0"
@@ -294,47 +260,7 @@
            x="202"
            y="726.51971"
            style="fill:#ffffff" /></flowRegion><flowPara
-         id="flowPara3774-4">Tap to add</flowPara></flowRoot>    <circle
-       style="fill:#00ff00;stroke-width:0.26458332"
-       id="path220"
-       cx="109.82104"
-       cy="257.52429"
-       r="9.541522"
-       clip-path="none" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3740"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,37.041667,74.083333)"
-       clip-path="none"><flowRegion
-         id="flowRegion3742"
-         style="fill:#ffffff"><rect
-           id="rect3744"
-           width="86"
-           height="94"
-           x="258"
-           y="666.51971"
-           style="fill:#ffffff" /></flowRegion><flowPara
-         id="flowPara3746"
-         style="font-size:96.00000121px">-</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="140.22923"
-       y="261.54581"
-       id="text3750"
-       clip-path="none"><tspan
-         sodipodi:role="line"
-         id="tspan3748"
-         x="140.22923"
-         y="261.54581"
-         style="fill:#ffffff;stroke-width:0.26458332px">Reset</tspan></text>
-    <circle
-       style="fill:#00ff00;stroke-width:0.26458332"
-       id="path220-2"
-       cx="249.05951"
-       cy="120.47207"
-       r="9.541522" />
-    <flowRoot
+         id="flowPara3774-4">Tap to add</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3740-5"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -348,22 +274,15 @@
            y="666.51971"
            style="fill:#ffffff" /></flowRegion><flowPara
          id="flowPara3746-2"
-         style="font-size:96px">-</flowPara></flowRoot>    <ellipse
-       style="fill:#ff0000;stroke-width:0.22960687"
-       id="path253-8"
-       cx="293.2822"
-       cy="120.7875"
-       rx="22.824818"
-       ry="10.102788" />
-    <text
+         style="font-size:96px">-</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="279.46768"
+       x="283.17191"
        y="124.49358"
        id="text3750-4"><tspan
          sodipodi:role="line"
          id="tspan3748-7"
-         x="279.46768"
+         x="283.17191"
          y="124.49358"
          style="fill:#ffffff;stroke-width:0.26458332px">Reset</tspan></text>
     <ellipse
@@ -372,5 +291,50 @@
        cy="208.09999"
        style="fill:#000000;stroke-width:0.26458332"
        r="67.279762" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:1"
+       d="m 219.075,107.55833 c 120.12083,0 120.65,0 120.65,0"
+       id="path322"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.55409163;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 276.225,107.02917 c 0,36.87921 0,37.04167 0,37.04167"
+       id="path322-3"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3740-5-3"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,36.050963,71.439439)"><flowRegion
+         id="flowRegion3742-8-3"
+         style="fill:#ffffff"><rect
+           id="rect3744-6-7"
+           width="86"
+           height="94"
+           x="258"
+           y="666.51971"
+           style="fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara3746-2-3"
+         style="font-size:96px">-</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="142.94273"
+       y="258.90195"
+       id="text3750-4-2"><tspan
+         sodipodi:role="line"
+         id="tspan3748-7-6"
+         x="142.94273"
+         y="258.90195"
+         style="fill:#ffffff;stroke-width:0.26458332px">Reset</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 78.845833,241.96668 c 120.120827,0 120.649997,0 120.649997,0"
+       id="path322-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.55409163;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 135.99583,241.43752 c 0,36.87921 0,37.04167 0,37.04167"
+       id="path322-3-2"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
