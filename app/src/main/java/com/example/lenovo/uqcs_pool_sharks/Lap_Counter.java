@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.wearable.view.WatchViewStub;
 import android.view.View;
+import android.widget.Button;
 import android.widget.TextView;
 
 /**
@@ -15,6 +16,8 @@ public class Lap_Counter extends Activity
 {
     // Define attribute to store the lap counter textView
     private TextView lapCounter;
+    private Button minus_button;
+    private Button reset_button;
     // Define attribute to store lap counter
     private int counter = 0;
 
@@ -24,6 +27,8 @@ public class Lap_Counter extends Activity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.watch_display);
         lapCounter = (TextView)findViewById(R.id.laps);
+        minus_button = (Button) findViewById(R.id.button_minus);
+        reset_button = (Button) findViewById(R.id.button_reset);
 
         lapCounter.setOnClickListener(new View.OnClickListener()
         {
@@ -55,5 +60,34 @@ public class Lap_Counter extends Activity
             }
         });
 
+        minus_button.setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v)
+            {
+                if(counter > 0)
+                {
+                    counter = counter - 1;
+                }
+                if(counter < 10)
+                {
+                    lapCounter.setText("0"+ counter);
+                }
+                else
+                {
+                    lapCounter.setText(Integer.toString(counter));
+                }
+            }
+        });
+
+        reset_button.setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v)
+            {
+                counter = 0;
+                lapCounter.setText("0" + Integer.toString(counter));
+            }
+        });
     }
 }
