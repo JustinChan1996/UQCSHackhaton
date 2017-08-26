@@ -30,5 +30,24 @@
             android:layout_marginTop="38dp"
             android:text="00"
             android:textSize="36sp" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/laps"
+            android:layout_marginEnd="27dp"
+            android:layout_marginTop="22dp"
+            android:layout_toStartOf="@+id/laps"
+            android:text="-" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/button"
+            android:layout_marginStart="39dp"
+            android:layout_toEndOf="@+id/laps"
+            android:text="@string/reset" />
     </RelativeLayout>
 </LinearLayout>
