@@ -20,9 +20,10 @@
             android:id="@+id/textView6"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Count from 0"
             android:layout_above="@+id/textView5"
-            android:layout_centerHorizontal="true" />
+            android:layout_centerHorizontal="true"
+            android:text="Count from 0"
+            android:textAppearance="@android:style/TextAppearance.DeviceDefault" />
 
     </RelativeLayout>
 
