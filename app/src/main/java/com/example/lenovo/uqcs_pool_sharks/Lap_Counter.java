@@ -1,8 +1,10 @@
 package com.example.lenovo.uqcs_pool_sharks;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.wearable.view.WatchViewStub;
+import android.view.View;
 import android.widget.TextView;
 
 /**
@@ -21,7 +23,37 @@ public class Lap_Counter extends Activity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.watch_display);
-        lapCounter = (TextView)findViewById(R.id.text);
+        lapCounter = (TextView)findViewById(R.id.laps);
+
+        lapCounter.setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v)
+            {
+                // Increment the counter by 1
+                if(counter == 99)
+                {
+                    // reset lap counter to 1
+                    counter = 1;
+                }
+                else
+                {
+                    // increment the lap counter
+                    counter ++;
+                }
+                // update the display
+                // if the display is less than 10, append 0 in front of the label
+                if(counter < 10)
+                {
+                    lapCounter.setText("0"+ counter);
+                }
+                else
+                {
+                    lapCounter.setText(Integer.toString(counter));
+                }
+
+            }
+        });
 
     }
 }

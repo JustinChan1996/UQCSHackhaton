@@ -27,7 +27,6 @@ public class UQ_Pool_Sharks extends Activity
                 mTextView = (TextView) stub.findViewById(R.id.text);
 
                 mTextView.setOnClickListener(new View.OnClickListener()
-//                mTextView.setOnClickListener(new View.OnClickListener()
                 {
                     @Override
                     public void onClick(View v)
