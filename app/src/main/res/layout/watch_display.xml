@@ -14,7 +14,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
-            android:text="Pool Sharks" />
+            android:text="@string/pool_sharks" />
 
         <TextView
             android:id="@+id/textView6"
@@ -22,7 +22,7 @@
             android:layout_height="wrap_content"
             android:layout_above="@+id/textView5"
             android:layout_centerHorizontal="true"
-            android:text="Count from 0"
+            android:text="@string/count_from_0"
             android:textAppearance="@android:style/TextAppearance.DeviceDefault" />
 
     </RelativeLayout>
